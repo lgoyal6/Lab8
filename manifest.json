@@ -1,5 +1,5 @@
 {
-  "name": "Lab8_Starter",
+  "name": "Lab8",
   "short_name": "Laksh",
   "description": "A collection of Thanksgiving recipes that works offline thanks to a service worker.",
   "start_url": ".",
